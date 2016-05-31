@@ -2,8 +2,8 @@
 Enabling split tunneling on Mac OSX SSL-VPN Forticlient
 
 Versions:
-OS X El Capitan 10.11.5
-FortiClient 5.4.0.493
+- OS X El Capitan 10.11.5
+- FortiClient 5.4.0.493
 
 Sources:
 - https://serverfault.com/questions/728702/how-to-get-forticlient-working-in-osx-el-capitan
