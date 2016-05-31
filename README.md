@@ -1,2 +1,2 @@
 # forticlient_macos_capitan_fix
-Enabling split tunning on SSL VPN Forticlient
+Enabling split tunneling on Mac OSX SSL-VPN Forticlient
